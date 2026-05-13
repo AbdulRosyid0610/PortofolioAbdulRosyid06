@@ -182,3 +182,49 @@
     border-right-color: var(--border);
   }
 }
+
+/* ✅ Tombol Kode — Project Cards */
+.project-actions {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  margin-top: 4px;
+}
+
+/* ✅ DITAMBAHKAN — supaya ikon arrow sejajar dengan teks */
+.project-link {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  text-decoration: none;
+  font-size: 11px;
+  letter-spacing: 2px;
+  font-family: monospace;
+  color: var(--accent, #2a9090);
+  transition: color 0.2s;
+
+  &:hover {
+    color: #00e5b0;
+  }
+}
+
+.project-code-btn {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  padding: 6px 14px;
+  background: #131f1f;
+  border: 1px solid #2a4040;
+  border-radius: 8px;
+  color: #c8e8e0;
+  font-family: monospace;
+  font-size: 11px;
+  letter-spacing: 0.5px;
+  text-decoration: none;
+  transition: background 0.2s, border-color 0.2s;
+
+  &:hover {
+    background: #1a3535;
+    border-color: #3a6060;
+  }
+}

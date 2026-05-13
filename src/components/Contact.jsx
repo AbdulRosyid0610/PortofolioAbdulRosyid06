@@ -1,9 +1,9 @@
 import { useState } from "react";
 
 const CONTACT_ITEMS = [
-  { icon: "📧", label: "Email",    value: "abdulrosyid1999bogor@gmail.com" },
-  { icon: "📱", label: "Phone",    value: "+62 812 1377 6005" },
-  { icon: "📍", label: "Location", value: "Ciomas, Indonesia" },
+  { icon: "", label: "Email",    value: "abdulrosyid1999bogor@gmail.com" },
+  { icon: "", label: "Phone",    value: "+62 812 1377 6005" },
+  { icon: "", label: "Location", value: "Ciomas, Bogor, Indonesia" },
 ];
 
 const FIELDS = [
@@ -31,7 +31,7 @@ export default function Contact() {
     <section id="contact" className="section contact-section">
       <div className="section-divider" />
       <div className="section-tag">
-        <span className="section-tag-num">03</span> Contact
+        <span className="section-tag-num">04</span> Contact
       </div>
       <h2 className="section-heading">
         Let's <em>work</em><br />together

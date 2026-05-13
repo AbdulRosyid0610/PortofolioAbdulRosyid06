@@ -16,12 +16,9 @@ export default function Hero() {
       <div className="hero-content">
         <div className="hero-eyebrow">Frontend Developer &amp; UI Designer</div>
         <h1 className="hero-title">
-          Crafting <em>Digital</em><br />Experiences
+          My personal  <em>Web</em><br />portfolio in
         </h1>
-        <p className="hero-desc">
-          I design and build beautifully simple things — responsive,
-          user-friendly interfaces that make an impact.
-        </p>
+        
         <div className="hero-cta">
           <a href="#projects" className="btn btn-primary">
             View Work <ArrowRight />

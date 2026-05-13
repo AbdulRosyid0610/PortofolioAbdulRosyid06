@@ -13,7 +13,7 @@ export default function Navbar() {
 
   return (
     <nav className={scrolled ? "scrolled" : ""}>
-      <div className="logo">Abdul <em>Rosyid</em></div>
+      <div className="logo">Portofolio <em>Abdul</em> Rosyid</div>
       <ul className="nav-links">
         {LINKS.map((s) => (
           <li key={s}>
