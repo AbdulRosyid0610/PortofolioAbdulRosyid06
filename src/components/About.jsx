@@ -10,7 +10,7 @@ const ArrowRight = ({ size = 12 }) => (
 
 const SKILLS = [
   { label: "Frontend",    tech: "HTML · CSS · JavaScript · React", pct: 90 },
-  { label: "Backend",      tech: "Node.js · Python · PHP · Java",   pct: 50 },
+  { label: "Backend",      tech: "Node.js · Python · PHP · Java · Laravel · Express.js",   pct: 50 },
   { label: "UI/UX Design", tech: "Figma · Canva",                   pct: 90 },
   { label: "Database",     tech: "MySQL · PostgreSQL · MongoDB",     pct: 50 },
 ];

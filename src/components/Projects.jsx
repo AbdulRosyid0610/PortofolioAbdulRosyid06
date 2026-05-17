@@ -33,7 +33,7 @@ const PROJECTS = [
 
     desc: "Platform manajemen toko online dengan analitik real-time dan sistem inventori cerdas.",
     href: "http://127.0.0.1:8000/login",
-    codeHref: "https://github.com/username/restaurant-dashboard",
+    codeHref: "https://github.com/AbdulRosyid0610/restoran0606",
   },
 
   {
@@ -73,7 +73,7 @@ const PROJECTS = [
 
     desc: "Sistem buku pembelajaran dengan fitur buku streaming dan kuis interaktif.",
     href: "https://buku-project.vercel.app/",
-    codeHref: "https://github.com/username/pustaka-nusa",
+    codeHref: "https://github.com/AbdulRosyid0610/buku_aku",
   },
 ];
 
