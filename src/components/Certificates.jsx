@@ -1,12 +1,12 @@
 import { useState } from "react";
 
 // IMPORT GAMBAR
-import cert1 from "../assets/image1.png";
-import cert2 from "../assets/image2.png";
-import cert3 from "../assets/image3.png";
-import cert4 from "../assets/image4.png";
-import cert5 from "../assets/image5.png";
-import cert6 from "../assets/image6.jpeg";
+import cert1 from "../assets/Image1.png";
+import cert2 from "../assets/Image2.png";
+import cert3 from "../assets/Image3.png";
+import cert4 from "../assets/Image4.png";
+import cert5 from "../assets/Image5.png";
+import cert6 from "../assets/Image6.jpeg";
 
 // ── Ganti data di bawah sesuai sertifikat kamu ──────────────
 const CERTIFICATES = [
